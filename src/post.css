@@ -1,0 +1,34 @@
+.post{
+    background: white;
+    width: 500px;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.0);
+}
+.post-det{
+   
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.allBtn{
+   
+    padding: 20px;
+   
+}
+.allBtn button {
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+    outline:none;
+    height: 20px;
+    font-size: 11px;
+    text-align: left;
+    color: grey;
+    cursor: pointer;
+    font-weight: bold
+}
+input[type="text"]{
+    width: 95%;
+    padding: 10px;
+    outline: none;
+    border:1px solid silver;
+}
